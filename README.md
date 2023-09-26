@@ -15,7 +15,6 @@
 
 ### Connect with me:
 <a href="https://www.instagram.com/accounts/onetap/?next=%2F"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox"><img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-email-2.png" /></a>
 <br>
 <hr>
 
